@@ -4,6 +4,6 @@
   "platform": "WPF",
   "product": "DXEditors for WPF",
   "runOnWeb": false,
-  "technology": ".NET"$
+  "technology": ".NET",
   "unsupportedVersions": ""
 }
