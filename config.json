@@ -5,5 +5,5 @@
   "product": "DXEditors for WPF",
   "runOnWeb": false,
   "technology": ".NET",
-  "unsupportedVersions": ""
+  "unsupportedVersions": "";
 }
